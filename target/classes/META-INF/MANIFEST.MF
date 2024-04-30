@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Shivanand.Mj
+Build-Jdk: 17.0.10
+Implementation-Title: spring-basic-security
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-basic-security
+Created-By: Maven Integration for Eclipse
+
